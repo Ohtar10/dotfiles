@@ -1,3 +1,6 @@
+# Bash profile
+source $HOME/.bash_profile
+
 # Linux antigen file
 source $HOME/antigen.zsh
 
