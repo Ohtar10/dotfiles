@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "terminal.external.linuxExec": "zsh",
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh"
+}
