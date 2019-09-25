@@ -1,3 +1,9 @@
 [submodule ".dotbot"]
 	path = .dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule ".tmux-spotify-info"]
+	path = .tmux-spotify-info
+	url = https://github.com/jdxcode/tmux-spotify-info.git
+[submodule ".tpm"]
+	path = .tpm
+	url = https://github.com/tmux-plugins/tpm

@@ -9,6 +9,9 @@
     ~/.gitconfig: gitconfig
     ~/.zshrc: zshrc
     ~/.tmux.conf: tmux.conf
+    ~/.tmux-spotify-info: .tmux-spotify-info/tmux-spotify-info
+    ~/.tmux/plugins/tpm: .tpm/
+
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
