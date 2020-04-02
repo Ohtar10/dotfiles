@@ -12,7 +12,8 @@ antigen use oh-my-zsh
 # Load the theme
 #antigen theme agnoster
 #antigen theme bhilburn/powerlevel9k powerlevel9k
-antigen theme fcamblor/oh-my-zsh-agnoster-fcamblor
+#antigen theme fcamblor/oh-my-zsh-agnoster-fcamblor
+antigen theme denysdovhan/spaceship-prompt
 
 # plugins
 antigen bundle git
@@ -36,3 +37,5 @@ antigen apply
 
 # Autosuggestions
 source "$HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh"
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
